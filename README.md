@@ -43,3 +43,6 @@ Organização para a série de eventos fo GE de Tecnologia da Fundação Estudar
 - Vahan Agopyan
 - Joao Duarte (Trybe)
 - Rafael Magalhães
+
+## Link para o Google Doc com os templates dos convites:
+https://docs.google.com/document/d/1QTTgkoDecQP1o0n8dXtRH_AYYwW0FZtL1rKTWwP8uMA/edit?usp=sharing
